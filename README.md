@@ -1,5 +1,5 @@
 # frenchie
 
-## famillie dutoit [Letters from Anne-Marie](./dutoit/)
+## famillie dutoit [click here - Letters from Anne-Marie](./dutoit/)
 
-Kimberly Jeremy Visit
+## Kimberly Jeremy Visit [click here - Frenchie Invation](./mobile/)
